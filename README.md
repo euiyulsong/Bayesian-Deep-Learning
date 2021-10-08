@@ -7,4 +7,4 @@
 ## Data Model
 
 * Used open-source from [link](https://github.com/weiaicunzai/pytorch-cifar100)
-* ``vi ./pytorch-cifar-100/README.md`` for documentation 
+* ``vi ./pytorch-cifar100/README.md`` for documentation 
